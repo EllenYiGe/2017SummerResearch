@@ -1,0 +1,7 @@
+Flask
+Redis
+Tensorflow
+wget
+Pillow
+numpy
+cassandra-driver
